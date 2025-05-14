@@ -20,7 +20,7 @@ A full-stack Blog Application built with Django that allows users to register, l
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Blog-App-using-Django.git
+   git clone https://github.com/Anand-DN/Blog-App-using--Django.git
    cd Blog-App-using-Django
 
 ## Description
