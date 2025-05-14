@@ -39,8 +39,7 @@ Template :- In this method which is the design of the system that consist of HTM
 🚀 Setup/Installation Requirements
 To view the website,
 
-click Python Django Blog Website or
-copy the link https://github.com/keerti1924/Python-Django-Blog-Website.git paste it to your browser and load it.
+
 ##🛠 Built With
 HTML
 CSS
